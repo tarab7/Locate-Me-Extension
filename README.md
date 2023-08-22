@@ -1,3 +1,10 @@
+
+Project Video Demo:
+
+https://github.com/tarab7/Locate-Me-Extension/assets/106686819/d96cca8f-5a75-4ecd-874f-7c3b0a6f18dc
+
+
+
 This is a [Plasmo extension](https://docs.plasmo.com/) project bootstrapped with [`plasmo init`](https://www.npmjs.com/package/plasmo).
 
 ## Getting Started
